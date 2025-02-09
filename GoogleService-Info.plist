@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Приложению требуется доступ для сохранения фотографий</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Приложению требуется доступ к фотографиям для загрузки изображений</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Приложению требуется доступ к камере для создания фотографий</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPWwwOhh1eGiiJF8EErmAd45axgBYSjzs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>648104283633</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fm.mrc.PROPS-APP</string>
+	<key>PROJECT_ID</key>
+	<string>props-app-39f2f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>props-app-39f2f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:648104283633:ios:776ce39b987841a7888850</string>
+</dict>
+</plist>
